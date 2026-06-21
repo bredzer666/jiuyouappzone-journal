@@ -1,2 +1,14 @@
 # jiuyouappzone-journal
-HTML page archive and documentation
+
+页面文件整理目录
+
+本仓库记录页面发布结果，页面文件会按任务追加保存。
+
+## 文件列表
+
+- README：仓库说明
+- HTML：页面发布文件
+
+## 提交说明
+
+页面文件由程序提交，提交历史可作为变更记录参考。
